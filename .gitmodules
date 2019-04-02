@@ -1,0 +1,3 @@
+[submodule "screen-tween"]
+	path = screen-tween
+	url = https://github.com/whoistobias/screen-tween.git
